@@ -59,3 +59,4 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/user-attachments/assets/fd7351b0-83de-403f-929e-134c7b7688ca)
 
 # Result
+THE CODE IS excuted succesfully
